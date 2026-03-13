@@ -1,0 +1,10 @@
+# This project requires chia-blockchain installed separately
+# 
+# Setup:
+#   git clone https://github.com/Chia-Network/chia-blockchain.git
+#   cd chia-blockchain
+#   sh install.sh
+#   . ./activate
+#   cp abcbank_fd_demo.py .
+#   python abcbank_fd_demo.py
+chia-blockchain>=2.0.0
